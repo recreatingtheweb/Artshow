@@ -68,8 +68,8 @@ textarea{
     padding-left: 30px;
 }
 .call-to-action{
-margin-top: 100px;
-margin-bottom: 30px;
+margin-top: 50px;
+/* margin-bottom: 30px; */
 }
 .close {
     position: absolute;
